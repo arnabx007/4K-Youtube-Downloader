@@ -29,3 +29,4 @@ Set the `output_dir` in the download.py script where the videos will be saved.
 Run `python download.py` in command prompt to download a video. Then input the video link.
 Then it will show all the available resolutions for the video. Upon selecting the desired resolution It will download the audio and video file seperately and the merge it for you and save it to the output directory. 
 
+![alt text](https://github.com/arnabx007/4K-Youtube-Downloader/blob/master/sample.jpg "")
